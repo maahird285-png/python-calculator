@@ -1,5 +1,5 @@
 # python-calculator
 gui calculator using python and tkinter
 ## Developer details
-farhan dahir ahmed
+NAME:FARHAN DAHIR AHMED
 reg.25/BSE/BU/R/0028
